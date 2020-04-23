@@ -19,6 +19,7 @@
 	width: 310px;
     height: 400px;
     background: #ccc;
+    border-radius: 10px;
 }
 
 .button{
@@ -27,6 +28,7 @@
 	font-size: 25;
 	margin: 2px;
 	cursor: pointer;
+
 }
 
 #plus{
